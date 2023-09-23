@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mukul_anand___" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw1GNPlxW6NodVbTx3Uw1Ccc&ust=1695549165606000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCSz_-6wIEDFQAAAAAdAAAAABAE" alt="mukul_anand___" height="30" width="40" /></a>
+<a href="https://twitter.com/mukul_anand___" target="blank"><img align="center" src="https://raw.githubusercontent.com/https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw1GNPlxW6NodVbTx3Uw1Ccc&ust=1695549165606000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCSz_-6wIEDFQAAAAAdAAAAABAE" alt="mukul_anand___" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukulanand131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukulanand131" height="30" width="40" /></a>
 <a href="https://fb.com/mukul anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukul anand" height="30" width="40" /></a>
 <a href="https://instagram.com/mukul_anand___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul_anand___" height="30" width="40" /></a>
