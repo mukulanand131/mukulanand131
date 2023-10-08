@@ -22,10 +22,7 @@
 <!-- for instagram -->
 <a href="https://instagram.com/mukul_anand___" target="blank"><img align="justify" src="https://www.cdnlogo.com/logos/i/32/instagram-icon.svg" alt="mukul_anand___" height="30" width="40" /></a>
 <!--   For Codechef -->
-.invert_effect { 
-    filter: invert(100%);
-    }
-    <a href="https://www.codechef.com/users/mukulanand131" target="blank"><img class="invert_effect" align="justify" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukul_anand___" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/mukulanand131" target="blank"><img style="filter: invert(100%);" align="justify" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukul_anand___" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/mukulanand131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukulanand131" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mukulanand131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukulanand131" height="30" width="40" /></a>
