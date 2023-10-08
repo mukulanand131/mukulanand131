@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mukul_anand___" target="blank"><img align="center" src="https://github.com/mukulanand131/mukulanand131/assets/79801919/81392d4e-79b4-4992-9293-da5a89549208" /></a>
+<a href="https://twitter.com/mukul_anand___" target="blank"><img align="center" src="https://github.com/mukulanand131/mukulanand131/assets/79801919/81392d4e-79b4-4992-9293-da5a89549208" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/mukulanand131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukulanand131" height="30" width="40" /></a>
 <a href="https://fb.com/mukul anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukul anand" height="30" width="40" /></a>
 <a href="https://instagram.com/mukul_anand___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul_anand___" height="30" width="40" /></a>
