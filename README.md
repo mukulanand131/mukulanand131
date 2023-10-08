@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mukul_anand___" ><img src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" height="30" width="40" alt=""></a>
-https://icons8.com/icon/13930/linkedin
   
 <a href="https://www.linkedin.com/in/mukul-anand-131-/" ><img src="https://icons8.com/icon/13930/linkedin" height="30" width="40" alt=""></a>
 
