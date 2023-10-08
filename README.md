@@ -18,8 +18,7 @@
 <!-- For Linked in -->
 <a href="https://www.linkedin.com/in/mukul-anand-131-/" ><img src="https://www.cdnlogo.com/logos/l/15/linkedin-2013.svg" height="30" width="40" alt=""></a>
 <!-- For Facebook -->
-<!--   <a href="https://cdnlogo.com/logo/facebook-3_41118.html"><img src="https://www.cdnlogo.com/logos/f/74/facebook-3.svg"></a> -->
-<a href="https://fb.com/mukul anand" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/74/facebook-3.svg" alt="mukul anand" height="30" width="40" /></a>
+<a href="https://fb.com/mukul anand" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/74/facebook-3.svg" alt="mukul anand" height="20" width="40" /></a>
   
 <a href="https://instagram.com/mukul_anand___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul_anand___" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mukulanand131" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukulanand131" height="30" width="40" /></a>
