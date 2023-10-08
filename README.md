@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulanand131&show_icons=true&locale=en" alt="mukulanand131" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulanand131&" alt="mukulanand131" /></p>
+
+
+![Logo_of_Twitter svg (1)](https://github.com/mukulanand131/mukulanand131/assets/79801919/81392d4e-79b4-4992-9293-da5a89549208)
