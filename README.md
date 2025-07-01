@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mukul Anand</h1>
-<h3 align="center">A 4th year B.Tech CSE Student.</h3>
+<h3 align="center">M.Tech. (CSE) @ NIT Silchar | Software Engineering Intern @ Siemens</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulanand131&label=Profile%20views&color=0e75b6&style=flat" alt="mukulanand131" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working as a **Software Engineering Intern** at **Siemens Industry Software (India) Pvt. Ltd.**, where I contribute to the **Siemens NX – Model-Based Definitions Applications** team
 
 - 📫 How to reach me **mukulanand131@gmail.com**
 
